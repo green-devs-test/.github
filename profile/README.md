@@ -2,7 +2,7 @@
 
 Were Green Devs Test
 
-Gustavo Iky Robles & Jafi doing some code to achieve public portfolio,  & functional recycling with the latest technologies at our hand.
+[Gustavo Robles](https://github.com/serviceace) & [Jafi](https://github.com/jafidiesel) doing some code to achieve public portfolio & functional recycling with the latest technologies at our hand.
 
 <!--
 
